@@ -39,7 +39,7 @@
   opacity: 1;
 }*/
 
-.section-two {
+/*.section-two {
   min-height: 100vh;
   background: #23252b;
 }
@@ -55,7 +55,7 @@
   color: #fff;
   font-size: 1em;
   margin: 30px 0;
-}
+}*/
 
 header {
   z-index: 999;
@@ -194,11 +194,11 @@ header.sticky .menu-item .sub-menu {
 .menu-btn {
   display: none;
 }
-.back-video {
+/*.back-video {
   position: absolute;
   display: 100%;
   z-index: -1;
-}
+}*/
 .icons {
   flex-wrap: wrap;
   position: absolute;
@@ -245,13 +245,13 @@ header.sticky .menu-item .sub-menu {
   height: 100vh;
   display: flex;
   align-items: center;
+  background: url("img/gambar-ts.JPG");
   justify-content: center;
   padding: 50px;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
   flex-wrap: wrap;
-  border: 1px solid #1da1f2;
 }
 
 .hero::after {
