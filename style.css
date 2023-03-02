@@ -514,4 +514,14 @@ ul {
     width: 50%;
     margin-bottom: 30px;
   }
+  .hero .content h1 {
+    padding: 0px 0px;
+    font-size: 150%;
+  }
+  .hero .content .profile {
+    margin-top: 0.5rem;
+    padding: 0.2rem 1rem;
+    font-size: 0.9rem;
+    border-radius: 5px;
+  }
 }
