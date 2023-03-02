@@ -236,7 +236,7 @@ header.sticky .menu-item .sub-menu {
   background-color: #111111;
 }
 .icons a:nth-child(4):hover {
-  background-color: #09a738;
+  background-color: #20ad54;
 }
 .icons a:nth-child(5):hover {
   background-color: #cc1414;
@@ -273,7 +273,7 @@ header.sticky .menu-item .sub-menu {
 }
 .hero .content h1 {
   font-size: 2.8rem;
-  color: #26ba5c;
+  color: #20ad54;
   text-shadow: 1px 1px 10px rgba(1, 1, 3, 1);
   line-height: 1.2;
   transition: 0.5s;
@@ -291,7 +291,7 @@ header.sticky .menu-item .sub-menu {
   align-items: center;
   text-align: center;
   color: #fff;
-  background-color: #036e2b;
+  background-color: #20ad54;
   border-radius: 10px;
 }
 /* Footer */
@@ -303,7 +303,7 @@ ul {
   list-style: none;
 }
 .footer {
-  background-color: #036e2b;
+  background-color: #24262b;
   padding: 70px 0;
 }
 .footer-col {
@@ -381,9 +381,14 @@ ul {
   color: #bbbbbb;
 }
 .footer-col p {
-  font-size: 13px;
+  font-size: 14px;
   bottom: -5px;
   color: #bbbbbb;
+}
+.credit {
+  font-size: 13px;
+  text-align: center;
+  background-color: #20ad54;
 }
 @media (max-width: 1060px) {
   header .navigation .menu {
